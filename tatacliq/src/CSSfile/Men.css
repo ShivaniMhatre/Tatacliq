@@ -11,6 +11,11 @@
     margin-top: 100px;
     background-color: rgb(236, 236, 236);
 }
+#men>div>div:hover{
+    cursor: pointer;
+    transition: 400ms;
+    transform: scale(1.2);
+}
 #menimg{
     width: 100%;
     height: 350px;

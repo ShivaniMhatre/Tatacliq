@@ -1,5 +1,6 @@
 import React from 'react'
 import './../CSSfile/Cate_dropdown.css'
+
 const Cate_dropdown = () => {
     return (
         <div className='cate_dropdown'>
